@@ -15,13 +15,6 @@ Here are the technologies used in this project.
 * PostgreSql
 
 
-## Used Tools
-
-* [DB designer](https://www.dbdesigner.net/)
-
-* Relationship Entity Diagram - DER
-  ![Chat Preview](https://raw.githubusercontent.com/karlysson/barbershop/master/doc/DER.png)
-
 ## Services Used
 * Github
 * Heroku
