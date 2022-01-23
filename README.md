@@ -1,12 +1,26 @@
 ## My App Model
 This app is a template website/administrative system with LTE-Admin 3 template.
 
+## Site:
+![Chat Preview](https://raw.githubusercontent.com/karlysson/barbershop/master/app/assets/images/screen.png)
+
+## System Admin
+![Chat Preview](https://raw.githubusercontent.com/karlysson/barbershop/master/app/assets/images/screen.png)
+
 ## Technology
 Here are the technologies used in this project.
 
 * Ruby version  2.7.5
 * Ruby on Rails version 5.2.6
 * PostgreSql
+
+
+## Used Tools
+
+* [DB designer](https://www.dbdesigner.net/)
+
+* Relationship Entity Diagram - DER
+  ![Chat Preview](https://raw.githubusercontent.com/karlysson/barbershop/master/doc/DER.png)
 
 ## Services Used
 * Github
@@ -17,15 +31,14 @@ Here are the technologies used in this project.
 
 ## Features
 The main features of the application are;
-
-* Bank of Miles
+*
 
 ## Links
 - Project homepage:
     - User: admin@appmodel.com.br
     - Password: Tes2022@
 
-- Repository: https://gitlab.com/karlysson.alves/my_miles_control
+- Repository: https://github.com/karlysson/app_model
     - In case of sensitive bugs like security vulnerabilities, please contact
       karlysson.alves@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
