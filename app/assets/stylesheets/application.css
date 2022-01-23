@@ -10,6 +10,14 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
- *= require_tree .
+ *= require admin-lte/plugins/fontawesome-free/css/all
+ *= require admin-lte/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4
+ *= require admin-lte/plugins/icheck-bootstrap/icheck-bootstrap
+ *= require admin-lte/plugins/jqvmap/jqvmap
+ *= require admin-lte/dist/css/adminlte
+ *= require admin-lte/plugins/overlayScrollbars/css/OverlayScrollbars
+ *= require admin-lte/plugins/daterangepicker/daterangepicker
+ *= require admin-lte/plugins/summernote/summernote
  *= require_self
+ *= require_tree .
  */
