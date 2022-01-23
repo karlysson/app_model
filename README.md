@@ -22,7 +22,7 @@ The main features of the application are;
 
 ## Links
 - Project homepage:
-    - User: test@app_model.com.br
+    - User: admin@appmodel.com.br
     - Password: Tes2022@
 
 - Repository: https://gitlab.com/karlysson.alves/my_miles_control
