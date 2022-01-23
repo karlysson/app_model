@@ -2,10 +2,10 @@
 This app is a template website/administrative system with LTE-Admin 3 template.
 
 ## Site:
-![Chat Preview](https://raw.githubusercontent.com/karlysson/barbershop/master/app/assets/images/screen.png)
+![Chat Preview](https://raw.githubusercontent.com/karlysson/app_model/master/app/assets/images/screen-site.png)
 
 ## System Admin
-![Chat Preview](https://raw.githubusercontent.com/karlysson/barbershop/master/app/assets/images/screen.png)
+![Chat Preview](https://raw.githubusercontent.com/karlysson/app_model/master/app/assets/images/screen-system.png)
 
 ## Technology
 Here are the technologies used in this project.
